@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 5 120 100" fill="currentColor"><style>svg{color:#171a18}@media(prefers-color-scheme:dark){svg{color:#f3f1e9}}</style><g id="horns" fill="none" stroke="currentColor" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"><path d="M42 30C34 15 17 14 10 27C2 42 8 59 21 63C32 67 40 58 37 49C35 41 25 40 22 47"/><path d="M78 30C86 15 103 14 110 27C118 42 112 59 99 63C88 67 80 58 83 49C85 41 95 40 98 47"/></g>
+<path id="wool" d="M39 40C31 37 32 26 39 23C38 15 49 10 55 16C60 7 73 11 73 20C83 15 92 23 87 32C93 40 84 47 77 43C72 51 62 49 58 44C51 49 41 48 39 40Z"/>
+<path id="face" d="M39 47C39 65 47 85 60 92C73 85 81 65 81 47" fill="none" stroke="currentColor" stroke-width="7.3" stroke-linecap="round"/>
+<g id="eyes"><ellipse cx="51" cy="62" rx="4" ry="4.8" transform="rotate(-10 51 62)"/><ellipse cx="69" cy="62" rx="4" ry="4.8" transform="rotate(10 69 62)"/></g>
+<g id="nose-mouth"><path d="M56 73Q60 70.5 64 73L61 76Q60 77 59 76Z"/><path d="M60 76v1m0 0q-2.7 3-5.2 0m5.2 0q2.7 3 5.2 0" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
